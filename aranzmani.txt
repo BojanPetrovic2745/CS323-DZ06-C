@@ -1,0 +1,50 @@
+Aranzman: Agencija 1Hotel 1  
+  Hotel: Hotel 1 
+ Mesto: Lefkada 
+ Broj nocenja: 4  
+ Cena: 30 
+Aranzman: Agencija 2Hotel 2  
+  Hotel: Hotel 2 
+ Mesto: Berlin 
+ Broj nocenja: 5  
+ Cena: 50 
+Aranzman: Agencija 3Hotel 3  
+  Hotel: Hotel 3 
+ Mesto: Lefkada 
+ Broj nocenja: 10  
+ Cena: 150 
+Aranzman: Agencija 4Hotel 4  
+  Hotel: Hotel 4 
+ Mesto: London 
+ Broj nocenja: 20  
+ Cena: 600 
+Aranzman:   
+  Hotel:  
+ Mesto:  
+ Broj nocenja: 0  
+ Cena: 0 
+Aranzman:   
+  Hotel:  
+ Mesto:  
+ Broj nocenja: 0  
+ Cena: 0 
+Aranzman:   
+  Hotel:  
+ Mesto:  
+ Broj nocenja: 0  
+ Cena: 0 
+Aranzman:   
+  Hotel:  
+ Mesto:  
+ Broj nocenja: 0  
+ Cena: 0 
+Aranzman:   
+  Hotel:  
+ Mesto:  
+ Broj nocenja: 0  
+ Cena: 0 
+Aranzman:   
+  Hotel:  
+ Mesto:  
+ Broj nocenja: 0  
+ Cena: 0 

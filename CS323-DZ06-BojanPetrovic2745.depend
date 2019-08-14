@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1565701535 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ06-BojanPetrovic2745/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1565702029 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ06-BojanPetrovic2745/src/Kupa.cpp
+	"Kupa.h"
+
+1565702049 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ06-BojanPetrovic2745/include/Kupa.h
+
